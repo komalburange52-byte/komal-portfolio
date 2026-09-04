@@ -110,9 +110,13 @@ body {
 }
 
 .hero h2 {
-  .animated-role {
+  font-size: 25px;
+  color: #c4b5fd;
+  margin-bottom: 25px;
+  }
+.animated-role {
   animation: roleChange 0.5s ease;
-}
+  }
 
 @keyframes roleChange {
   from {
@@ -125,10 +129,7 @@ body {
     transform: translateY(0);
   }
 }
-  font-size: 25px;
-  color: #c4b5fd;
-  margin-bottom: 25px;
-}
+
 
 .hero-description {
   color: #a6adbb;
