@@ -122,61 +122,62 @@ function App() {
           </div>
         </section>
 
-        {/* ABOUT SECTION */}
-      <section id="about" className="about reveal">
-          <div className="section-label">
-            <span className="section-number">01</span>
-            ABOUT ME
-          </div>
+   {/* ABOUT SECTION */}
+<section id="about" className="about reveal">
+  <div className="section-label">
+    <span className="section-number">01</span>
+    ABOUT ME
+  </div>
 
-          <div className="about-content">
-            <div className="about-text">
-              <h2>
-                Building technology with
-                <span> purpose.</span>
-              </h2>
+  <div className="about-content">
+    <div className="about-text">
+      <h2>
+        Building technology with
+        <span> purpose.</span>
+      </h2>
 
-              <p>
-                I'm Komal, an aspiring AI & Data Science professional
-                passionate about building intelligent applications and
-                meaningful digital experiences.
-              </p>
+      <p>
+        I'm Komal Burange, an AI & Data Science student and aspiring
+        developer passionate about Artificial Intelligence, Data Science,
+        Python, and modern web development.
+      </p>
 
-              <p>
-                I enjoy combining Artificial Intelligence with Full Stack
-                Development to transform ideas into practical solutions.
-                I am continuously learning, building projects, and improving
-                my skills as a developer.
-              </p>
+      <p>
+        I build practical applications using Artificial Intelligence,
+        Machine Learning, and Full Stack Development. My projects include
+        AI-powered applications and MERN stack web applications, and I
+        continuously improve my programming and problem-solving skills
+        through hands-on development.
+      </p>
 
-              <a href="#projects" className="about-button">
-                See My Projects <span>→</span>
-              </a>
-            </div>
+      <a href="#projects" className="about-button">
+        See My Projects <span>→</span>
+      </a>
+    </div>
 
-            <div className="about-stats">
-              <div className="stat-card">
-                <span className="stat-number">AI</span>
-                <p>Artificial Intelligence</p>
-              </div>
+    <div className="about-stats">
+      <div className="stat-card">
+        <span className="stat-number">AI</span>
+        <p>Artificial Intelligence</p>
+      </div>
 
-              <div className="stat-card">
-                <span className="stat-number">MERN</span>
-                <p>Full Stack Development</p>
-              </div>
+      <div className="stat-card">
+        <span className="stat-number">MERN</span>
+        <p>Full Stack Development</p>
+      </div>
 
-              <div className="stat-card">
-                <span className="stat-number">2027</span>
-                <p>Graduation Goal</p>
-              </div>
+      <div className="stat-card">
+        <span className="stat-number">2027</span>
+        <p>Graduation Goal</p>
+      </div>
 
-              <div className="stat-card">
-                <span className="stat-number">∞</span>
-                <p>Always Learning</p>
-              </div>
-            </div>
-          </div>
-        </section>
+      <div className="stat-card">
+        <span className="stat-number">∞</span>
+        <p>Always Learning</p>
+      </div>
+    </div>
+  </div>
+</section>
 
         {/* SKILLS SECTION */}
        <section id="skills" className="skills reveal">
