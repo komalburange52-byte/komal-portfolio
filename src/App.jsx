@@ -463,12 +463,14 @@ function App() {
                 people in technology.
               </p>
 
-              <a
-                href="mailto:komalburange52@gmail.com"
-                className="email-button"
-              >
-                Send Me an Email ↗
-              </a>
+             <a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=komalburange52@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="email-button"
+>
+  Send Me an Email ↗
+</a>
             </div>
 
             <div className="contact-info">
