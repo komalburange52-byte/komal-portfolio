@@ -91,13 +91,15 @@ function App() {
               <a href="#contact" className="secondary-button">
                 Contact Me
               </a>
-              <a
-             href="/Komal-Burange-Resume.pdf"
-              download="Komal-Burange-Resume.pdf"
-               className="resume-button"
-               >
-              Download Resume ↓
-              </a>
+              
+<a
+  href="/komal-Burange-resume.pdf"
+  download="Komal-Burange-Resume.pdf"
+  className="resume-button"
+>
+  Download Resume ↓
+</a>
+
             </div>
           </div>
 
